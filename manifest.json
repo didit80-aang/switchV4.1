@@ -2,7 +2,7 @@
   "name": "Smart Switch Control",
   "short_name": "SaklarOnline",
   "description": "Kontrol Saklar Pintar ESP8266",
-  "start_url": "/switchV4/",
+  "start_url": "/switchV4.1/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#1e3a8a",
